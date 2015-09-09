@@ -2,7 +2,7 @@
 layout: post
 title:  "Eldritch Blast"
 date:   2014-08-24
-tags: [warlock, cantrip]
+tags: [warlock, cantrip, evocation]
 ---
 
 **Evocation cantrip**

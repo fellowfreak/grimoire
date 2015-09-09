@@ -2,7 +2,7 @@
 layout: post
 title:  "Dominate Monster"
 date:   2015-01-10
-tags:   [bard, sorcerer, warlock, wizard, level8]
+tags:   [bard, sorcerer, warlock, wizard, level8, enchantment]
 ---
 
 **8th-level enchantment**

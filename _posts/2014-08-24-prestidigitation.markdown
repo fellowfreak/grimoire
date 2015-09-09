@@ -2,7 +2,7 @@
 layout: post
 title:  "Prestidigitation"
 date:   2014-08-24
-tags: [bard, sorcerer, warlock, wizard, cantrip]
+tags: [bard, sorcerer, warlock, wizard, cantrip, transmutation]
 ---
 
 **Transmutation cantrip**

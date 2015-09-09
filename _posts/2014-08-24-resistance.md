@@ -2,7 +2,7 @@
 layout: post
 title:  "Resistance"
 date:   2014-08-24
-tags: [cleric, druid, cantrip]
+tags: [cleric, druid, cantrip, abjuration]
 ---
 
 **Abjuration cantrip**

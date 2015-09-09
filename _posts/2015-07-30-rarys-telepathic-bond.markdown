@@ -2,7 +2,7 @@
 layout: post
 title: Rary's Telepathic Bond
 date:  2015-07-30
-tags:  [wizard, level5]
+tags:  [wizard, level5, divination]
 ---
 
 **5th-level divination (ritual)**

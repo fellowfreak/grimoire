@@ -2,7 +2,7 @@
 layout: post
 title:  "Divine Word"
 date:   2015-01-11
-tags:   [cleric, level7]
+tags:   [cleric, level7, evocation]
 ---
 
 **7th-level evocation**

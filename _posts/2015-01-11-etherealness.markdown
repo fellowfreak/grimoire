@@ -2,7 +2,7 @@
 layout: post
 title:  "Etherealness"
 date:   2015-01-11
-tags:   [bard, cleric, sorcerer, warlock, wizard, level7]
+tags:   [bard, cleric, sorcerer, warlock, wizard, level7, transmutation]
 ---
 
 **7th-level transmutation**

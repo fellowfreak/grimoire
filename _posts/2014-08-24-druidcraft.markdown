@@ -2,7 +2,7 @@
 layout: post
 title:  "Druidcraft"
 date:   2014-08-24
-tags: [druid, cantrip]
+tags: [druid, cantrip, transmutation]
 ---
 
 **Transmutation cantrip**

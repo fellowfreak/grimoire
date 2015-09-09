@@ -2,7 +2,7 @@
 layout: post
 title:  "Telepathy"
 date:   2015-01-10
-tags:   [wizard, level8]
+tags:   [wizard, level8, evocation]
 ---
 
 **8th-level evocation**

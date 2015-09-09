@@ -2,7 +2,7 @@
 layout: post
 title: "Guards and Wards"
 date: 2015-07-30
-tags: [wizard, bard, level6]
+tags: [wizard, bard, level6, illusion]
 ---
 
 **6th-level abjuration**

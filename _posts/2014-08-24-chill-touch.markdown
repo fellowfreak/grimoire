@@ -2,7 +2,7 @@
 layout: post
 title:  "Chill Touch"
 date:   2014-08-24
-tags: [sorcerer, warlock, wizard, cantrip]
+tags: [sorcerer, warlock, wizard, cantrip, necromancy]
 ---
 
 **Necromancy cantrip**

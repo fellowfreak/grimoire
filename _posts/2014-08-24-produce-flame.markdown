@@ -2,7 +2,7 @@
 layout: post
 title:  "Produce Flame"
 date:   2014-08-24
-tags: [druid, cantrip]
+tags: [druid, cantrip, conjuration]
 ---
 
 **Conjuration cantrip**

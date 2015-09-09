@@ -2,7 +2,7 @@
 layout: post
 title:  "Simulacrum"
 date:   2015-01-12
-tags:   [wizard, level7]
+tags:   [wizard, level7, illusion]
 ---
 
 **7th-level illusion**

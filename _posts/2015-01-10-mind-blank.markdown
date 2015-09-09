@@ -2,7 +2,7 @@
 layout: post
 title:  "Mind Blank"
 date:   2015-01-10
-tags:   [bard, wizard, level8]
+tags:   [bard, wizard, level8, divination]
 ---
 
 **8th-level abjuration**

@@ -2,7 +2,7 @@
 layout: post
 title:  "Poison Spray"
 date:   2014-08-24
-tags: [druid, sorcerer, warlock, wizard, cantrip]
+tags: [druid, sorcerer, warlock, wizard, cantrip, conjuration]
 ---
 
 **Conjuration cantrip**

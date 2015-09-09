@@ -2,7 +2,7 @@
 layout: post
 title:  "Mordenkainen's Sword"
 date:   2015-01-11
-tags:   [bard, wizard, level7]
+tags:   [bard, wizard, level7, evocation]
 ---
 
 **7th-level evocation**

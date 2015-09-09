@@ -2,7 +2,7 @@
 layout: post
 title:  "Mirage Arcane"
 date:   2015-01-11
-tags:   [bard, druid, wizard, level7]
+tags:   [bard, druid, wizard, level7, illusion]
 ---
 
 **7th-level illusion**

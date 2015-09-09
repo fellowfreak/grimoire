@@ -2,7 +2,7 @@
 layout: post
 title:  "Finger of Death"
 date:   2015-01-11
-tags:   [sorcerer, warlock, wizard, level7]
+tags:   [sorcerer, warlock, wizard, level7, necromancy]
 ---
 
 **7th-level necromancy**

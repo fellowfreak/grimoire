@@ -2,7 +2,7 @@
 layout: post
 title:  "Control Weather"
 date:   2015-01-10
-tags:   [cleric, druid, wizard, level8]
+tags:   [cleric, druid, wizard, level8, transmutation]
 ---
 
 **8th-level transmutation**
