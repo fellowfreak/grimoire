@@ -17,23 +17,50 @@
 				  </dd>
 				  {% endfor %}
 				</dl>
+        <br/>
+        <br/>
+        <dl class="tag-list">
+         <dt>Spell school:</dt>
+         {% for school in site.data.schools %}
+         <dd>
+           <a href="#{{school.tag}}">{{school.name}}</a>
+         </dd>
+         {% endfor %}
+       </dl>
 
 				{% for level in site.data.levels %}
-				<a id="{{level.tag}}"></a>
-				<h3>{{level.title}}</h3>
-				{% assign post_list = site.tags.[{{level.tag}}] | sort: 'title' %}
-				{% for post in post_list %}
-				{% for tag in post.tags %}
-				{% if tag == page.tag %}
-				<ul class="post-list">
-				    <li>
-				        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-				    </li>
-				</ul>
-				{% endif %}
+  				<a id="{{level.tag}}"></a>
+  				<h3>{{level.title}}</h3>
+  				{% assign post_list = site.tags.[{{level.tag}}] | sort: 'title' %}
+    				{% for post in post_list %}
+      				{% for tag in post.tags %}
+        				{% if tag == page.tag %}
+        				<ul class="post-list">
+        				    <li>
+        				        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        				    </li>
+        				</ul>
+        				{% endif %}
+      				{% endfor %}
+    				{% endfor %}
+  				<a class="post-meta" href="#top">Back to top &#8593;</a>
 				{% endfor %}
-				{% endfor %}
-				<a class="post-meta" href="#top">Back to top &#8593;</a>
+        {% for school in site.data.schools %}
+  				<a id="{{school.tag}}"></a>
+  				<h3>{{school.title}}</h3>
+  				{% assign post_list = site.tags.[{{school.tag}}] | sort: 'title' %}
+    				{% for post in post_list %}
+      				{% for tag in post.tags %}
+        				{% if tag == page.tag %}
+        				<ul class="post-list">
+        				    <li>
+        				        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        				    </li>
+        				</ul>
+        				{% endif %}
+      				{% endfor %}
+    				{% endfor %}
+  				<a class="post-meta" href="#top">Back to top &#8593;</a>
 				{% endfor %}
       </div>
     </div>
