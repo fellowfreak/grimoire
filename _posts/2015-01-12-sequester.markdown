@@ -2,7 +2,7 @@
 layout: post
 title:  "Sequester"
 date:   2015-01-12
-tags:   [wizard, level7, divination]
+tags:   [wizard, level7, transmutation]
 ---
 
 **7th-level transmutation**
